@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from api.v1.auth.session_auth import SessionAuth
 import os
 from datetime import datetime, timedelta
